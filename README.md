@@ -10,6 +10,8 @@ Image Search provides the following functionality:
 # Libraries Used
 * Gson - for convert Java Objects into their JSON representation
 * Glide - For specifically image requests and caching
+# Dependencies
+android 5 and higher.
 # License
 All code is distributed under MIT license. 
 # Flowchart
