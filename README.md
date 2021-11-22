@@ -12,3 +12,6 @@ Image Search provides the following functionality:
 * Glide - For specifically image requests and caching
 # Licens
 All code is distributed under MIT license. 
+# Flowchart
+
+![‫home_Assignment‬ drawio](https://user-images.githubusercontent.com/79844485/142847185-644a1d47-bf6d-481e-87bb-9c58e49b3be8.png)
