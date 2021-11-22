@@ -1,5 +1,5 @@
 # Home-Assignment
-mage Search is built around unsplash api and supports search for images.
+mage Search is built based on unsplash api and supports search for images.
 
 # Features
 Image Search provides the following functionality:
@@ -10,7 +10,7 @@ Image Search provides the following functionality:
 # Libraries Used
 * Gson - for convert Java Objects into their JSON representation
 * Glide - For specifically image requests and caching
-# Licens
+# License
 All code is distributed under MIT license. 
 # Flowchart
 
