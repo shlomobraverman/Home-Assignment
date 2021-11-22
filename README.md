@@ -1,5 +1,5 @@
 # Home-Assignment
-mage Search is built based on unsplash api and supports search for images.
+image Search is built based on unsplash api and supports search for images.
 
 # Features
 Image Search provides the following functionality:
